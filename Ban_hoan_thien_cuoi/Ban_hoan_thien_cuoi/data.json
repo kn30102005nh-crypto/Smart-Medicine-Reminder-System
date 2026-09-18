@@ -1,0 +1,711 @@
+{
+  "remindersList": [
+    {
+      "id": 1782811949714,
+      "h": 16,
+      "m": 33,
+      "taken": true,
+      "label": "Thuốc Huyết Áp (Amlodipine)",
+      "slot": 1
+    },
+    {
+      "id": 1782812001946,
+      "h": 16,
+      "m": 34,
+      "taken": false,
+      "label": "Thuốc Tiểu Đường (Metformin)",
+      "slot": 2
+    }
+  ],
+  "logsHistory": [
+    {
+      "id": 1782812001946,
+      "time": "2026-06-30T09:33:21.946Z",
+      "label": "Thuốc Tiểu Đường (Metformin)",
+      "action": "Đã thiết lập cữ",
+      "slot": 2
+    },
+    {
+      "id": 1782811982095,
+      "time": "2026-06-30T09:33:02.095Z",
+      "label": "Thuốc Huyết Áp (Amlodipine)",
+      "action": "Đã uống (Bằng nút bấm ESP32)",
+      "slot": 1
+    },
+    {
+      "id": 1782811949714,
+      "time": "2026-06-30T09:32:29.714Z",
+      "label": "Thuốc Huyết Áp (Amlodipine)",
+      "action": "Đã thiết lập cữ",
+      "slot": 1
+    },
+    {
+      "id": 1782768498044,
+      "time": "2026-06-29T21:28:18.044Z",
+      "label": "Tất cả cữ",
+      "action": "Xóa sạch lịch",
+      "slot": 1
+    },
+    {
+      "id": 1782768482806,
+      "time": "2026-06-29T21:28:02.806Z",
+      "label": "Cữ thuốc cài từ Box (8g:0g)",
+      "action": "Thiết lập cữ (Từ Box vật lý)",
+      "slot": 1
+    },
+    {
+      "id": 1782768479139,
+      "time": "2026-06-29T21:27:59.139Z",
+      "label": "Cữ thuốc cài từ Box (8g:0g)",
+      "action": "Tháo dỡ cữ",
+      "slot": 1
+    },
+    {
+      "id": 1782768432874,
+      "time": "2026-06-29T21:27:12.874Z",
+      "label": "Cữ thuốc cài từ Box (8g:0g)",
+      "action": "Thiết lập cữ (Từ Box vật lý)",
+      "slot": 1
+    },
+    {
+      "id": 1782768381103,
+      "time": "2026-06-29T21:26:21.103Z",
+      "label": "Tất cả cữ",
+      "action": "Xóa sạch lịch",
+      "slot": 1
+    },
+    {
+      "id": 1782768352803,
+      "time": "2026-06-29T21:25:52.803Z",
+      "label": "Cữ thuốc cài từ Box (8g:0g)",
+      "action": "Thiết lập cữ (Từ Box vật lý)",
+      "slot": 1
+    },
+    {
+      "id": 1782471862251,
+      "time": "2026-06-26T11:04:22.251Z",
+      "label": "Men Tiêu Hóa (Enzymes)",
+      "action": "Đã uống (Bằng nút bấm ESP32)",
+      "slot": 2
+    },
+    {
+      "id": 1782471814990,
+      "time": "2026-06-26T11:03:34.990Z",
+      "label": "Men Tiêu Hóa (Enzymes)",
+      "action": "Đã thiết lập cữ",
+      "slot": 2
+    },
+    {
+      "id": 1782471780761,
+      "time": "2026-06-26T11:03:00.762Z",
+      "label": "Thuốc Huyết Áp (Amlodipine)",
+      "action": "Đã uống (Bằng nút bấm ESP32)",
+      "slot": 1
+    },
+    {
+      "id": 1782471735731,
+      "time": "2026-06-26T11:02:15.731Z",
+      "label": "Thuốc Huyết Áp (Amlodipine)",
+      "action": "Đã thiết lập cữ",
+      "slot": 1
+    },
+    {
+      "id": 1782471723083,
+      "time": "2026-06-26T11:02:03.083Z",
+      "label": "Tất cả cữ",
+      "action": "Xóa sạch lịch",
+      "slot": 1
+    },
+    {
+      "id": 1782471662399,
+      "time": "2026-06-26T11:01:02.399Z",
+      "label": "Thuốc Huyết Áp (Amlodipine)",
+      "action": "Đã uống (Bằng nút bấm ESP32)",
+      "slot": 1
+    },
+    {
+      "id": 1782471627058,
+      "time": "2026-06-26T11:00:27.058Z",
+      "label": "Thuốc Huyết Áp (Amlodipine)",
+      "action": "Đã thiết lập cữ",
+      "slot": 1
+    },
+    {
+      "id": 1782470972100,
+      "time": "2026-06-26T10:49:32.100Z",
+      "label": "Cữ thuốc cài từ Box (17g:49g)",
+      "action": "Đã uống",
+      "slot": 2
+    },
+    {
+      "id": 1782470846900,
+      "time": "2026-06-26T10:47:26.900Z",
+      "label": "Cữ thuốc cài từ Box (8g:0g)",
+      "action": "Tháo dỡ cữ",
+      "slot": 1
+    },
+    {
+      "id": 1782470845099,
+      "time": "2026-06-26T10:47:25.099Z",
+      "label": "Thuốc Tiểu Đường (Metformin)",
+      "action": "Tháo dỡ cữ",
+      "slot": 1
+    },
+    {
+      "id": 1782470835718,
+      "time": "2026-06-26T10:47:15.718Z",
+      "label": "Cữ thuốc cài từ Box (17g:49g)",
+      "action": "Thiết lập cữ (Từ Box vật lý)",
+      "slot": 2
+    },
+    {
+      "id": 1782470463389,
+      "time": "2026-06-26T10:41:03.389Z",
+      "label": "Thuốc Tiểu Đường (Metformin)",
+      "action": "Đã thiết lập cữ",
+      "slot": 1
+    },
+    {
+      "id": 1782470191757,
+      "time": "2026-06-26T10:36:31.757Z",
+      "label": "Cữ thuốc cài từ Box (8g:0g)",
+      "action": "Thiết lập cữ (Từ Box vật lý)",
+      "slot": 1
+    },
+    {
+      "id": 1782470185165,
+      "time": "2026-06-26T10:36:25.165Z",
+      "label": "Tất cả cữ",
+      "action": "Xóa sạch lịch",
+      "slot": 1
+    },
+    {
+      "id": 1782470151332,
+      "time": "2026-06-26T10:35:51.332Z",
+      "label": "Cữ thuốc cài từ Box (8g:0g)",
+      "action": "Thiết lập cữ (Từ Box vật lý)",
+      "slot": 1
+    },
+    {
+      "id": 1782470100128,
+      "time": "2026-06-26T10:35:00.128Z",
+      "label": "Cữ thuốc cài từ Box (8g:0g)",
+      "action": "Thiết lập cữ (Từ Box vật lý)",
+      "slot": 3
+    },
+    {
+      "id": 1782470074058,
+      "time": "2026-06-26T10:34:34.058Z",
+      "label": "abc",
+      "action": "Đã thiết lập cữ",
+      "slot": 1
+    },
+    {
+      "id": 1782380600748,
+      "time": "2026-06-25T09:43:20.748Z",
+      "label": "Tất cả cữ",
+      "action": "Xóa sạch lịch",
+      "slot": 1
+    },
+    {
+      "id": 1782380582001,
+      "time": "2026-06-25T09:43:02.001Z",
+      "label": "Cữ thuốc cài từ Box (16g:43g)",
+      "action": "Đã uống (Bằng nút bấm ESP32)",
+      "slot": 1
+    },
+    {
+      "id": 1782380530291,
+      "time": "2026-06-25T09:42:10.291Z",
+      "label": "Cữ thuốc cài từ Box (16g:43g)",
+      "action": "Thiết lập cữ (Từ Box vật lý)",
+      "slot": 1
+    },
+    {
+      "id": 1782380480163,
+      "time": "2026-06-25T09:41:20.163Z",
+      "label": "Tất cả cữ",
+      "action": "Xóa sạch lịch",
+      "slot": 1
+    },
+    {
+      "id": 1782380368443,
+      "time": "2026-06-25T09:39:28.443Z",
+      "label": "Cữ thuốc cài từ Box (8g:0g)",
+      "action": "Thiết lập cữ (Từ Box vật lý)",
+      "slot": 1
+    },
+    {
+      "id": 1782380352596,
+      "time": "2026-06-25T09:39:12.596Z",
+      "label": "Cữ thuốc cài từ Box (8g:0g)",
+      "action": "Thiết lập cữ (Từ Box vật lý)",
+      "slot": 1
+    },
+    {
+      "id": 1782380114283,
+      "time": "2026-06-25T09:35:14.283Z",
+      "label": "Tất cả cữ",
+      "action": "Xóa sạch lịch",
+      "slot": 1
+    },
+    {
+      "id": 1782372735966,
+      "time": "2026-06-25T07:32:15.966Z",
+      "label": "Thuốc Huyết Áp (Amlodipine)",
+      "action": "Đã thiết lập cữ",
+      "slot": 1
+    },
+    {
+      "id": 1780380211660,
+      "time": "2026-06-02T06:03:31.660Z",
+      "label": "Tất cả cữ",
+      "action": "Xóa sạch lịch",
+      "slot": 1
+    },
+    {
+      "id": 1780380198515,
+      "time": "2026-06-02T06:03:18.515Z",
+      "label": "Thuốc Tiểu Đường (Metformin)",
+      "action": "Đã uống (Bằng nút bấm ESP32)",
+      "slot": 1
+    },
+    {
+      "id": 1780380139338,
+      "time": "2026-06-02T06:02:19.338Z",
+      "label": "Thuốc Tiểu Đường (Metformin)",
+      "action": "Đã thiết lập cữ",
+      "slot": 1
+    },
+    {
+      "id": 1780380054942,
+      "time": "2026-06-02T06:00:54.942Z",
+      "label": "Thuốc Tiểu Đường (Metformin)",
+      "action": "Tháo dỡ cữ",
+      "slot": 1
+    },
+    {
+      "id": 1780380050541,
+      "time": "2026-06-02T06:00:50.541Z",
+      "label": "Thuốc Tiểu Đường (Metformin)",
+      "action": "Đã thiết lập cữ",
+      "slot": 1
+    },
+    {
+      "id": 1780122057705,
+      "time": "2026-05-30T06:20:57.705Z",
+      "label": "Tất cả cữ",
+      "action": "Xóa sạch lịch",
+      "slot": 1
+    },
+    {
+      "id": 1780122037986,
+      "time": "2026-05-30T06:20:37.987Z",
+      "label": "Men Tiêu Hóa (Enzymes)",
+      "action": "Đã thiết lập cữ",
+      "slot": 2
+    },
+    {
+      "id": 1780122026275,
+      "time": "2026-05-30T06:20:26.275Z",
+      "label": "Thuốc Huyết Áp (Amlodipine)",
+      "action": "Đã thiết lập cữ",
+      "slot": 1
+    },
+    {
+      "id": 1780046939246,
+      "time": "2026-05-29T09:28:59.246Z",
+      "label": "Tất cả cữ",
+      "action": "Xóa sạch lịch",
+      "slot": 1
+    },
+    {
+      "id": 1780046891234,
+      "time": "2026-05-29T09:28:11.234Z",
+      "label": "Thuốc Tiểu Đường (Metformin)",
+      "action": "Đã uống (Bằng nút bấm ESP32)",
+      "slot": 2
+    },
+    {
+      "id": 1780046853220,
+      "time": "2026-05-29T09:27:33.220Z",
+      "label": "Thuốc Tiểu Đường (Metformin)",
+      "action": "Đã thiết lập cữ",
+      "slot": 2
+    },
+    {
+      "id": 1780046823528,
+      "time": "2026-05-29T09:27:03.528Z",
+      "label": "Thuốc Tiểu Đường (Metformin)",
+      "action": "Đã uống (Bằng nút bấm ESP32)",
+      "slot": 1
+    },
+    {
+      "id": 1780046816766,
+      "time": "2026-05-29T09:26:56.766Z",
+      "label": "Thuốc Tiểu Đường (Metformin)",
+      "action": "Đã thiết lập cữ",
+      "slot": 1
+    },
+    {
+      "id": 1780046799008,
+      "time": "2026-05-29T09:26:39.008Z",
+      "label": "Tất cả cữ",
+      "action": "Xóa sạch lịch",
+      "slot": 1
+    },
+    {
+      "id": 1780046501721,
+      "time": "2026-05-29T09:21:41.721Z",
+      "label": "dsad",
+      "action": "Đã uống",
+      "slot": 1
+    },
+    {
+      "id": 1780046450978,
+      "time": "2026-05-29T09:20:50.978Z",
+      "label": "dsad",
+      "action": "Đã thiết lập cữ",
+      "slot": 1
+    },
+    {
+      "id": 1780043393149,
+      "time": "2026-05-29T08:29:53.149Z",
+      "label": "Tất cả cữ",
+      "action": "Xóa sạch lịch",
+      "slot": 1
+    },
+    {
+      "id": 1780043388185,
+      "time": "2026-05-29T08:29:48.185Z",
+      "label": "Cữ thuốc cài từ Box (8g:3g)",
+      "action": "Thiết lập cữ (Từ Box vật lý)",
+      "slot": 1
+    },
+    {
+      "id": 1780037646210,
+      "time": "2026-05-29T06:54:06.210Z",
+      "label": "jhfj",
+      "action": "Tháo dỡ cữ",
+      "slot": 1
+    },
+    {
+      "id": 1780037645116,
+      "time": "2026-05-29T06:54:05.116Z",
+      "label": "ghfjmh",
+      "action": "Tháo dỡ cữ",
+      "slot": 1
+    },
+    {
+      "id": 1780037637474,
+      "time": "2026-05-29T06:53:57.474Z",
+      "label": "ghfjmh",
+      "action": "Đã thiết lập cữ",
+      "slot": 1
+    },
+    {
+      "id": 1780037633825,
+      "time": "2026-05-29T06:53:53.825Z",
+      "label": "jhfj",
+      "action": "Đã thiết lập cữ",
+      "slot": 1
+    },
+    {
+      "id": 1780037623989,
+      "time": "2026-05-29T06:53:43.989Z",
+      "label": "4234",
+      "action": "Tháo dỡ cữ",
+      "slot": 2
+    },
+    {
+      "id": 1780037623449,
+      "time": "2026-05-29T06:53:43.449Z",
+      "label": "Cữ thuốc cài từ Box (8g:3g)",
+      "action": "Tháo dỡ cữ",
+      "slot": 1
+    },
+    {
+      "id": 1780037623036,
+      "time": "2026-05-29T06:53:43.036Z",
+      "label": "ghfgj",
+      "action": "Tháo dỡ cữ",
+      "slot": 1
+    },
+    {
+      "id": 1780037615695,
+      "time": "2026-05-29T06:53:35.695Z",
+      "label": "ghfgj",
+      "action": "Đã thiết lập cữ",
+      "slot": 1
+    },
+    {
+      "id": 1780037589295,
+      "time": "2026-05-29T06:53:09.295Z",
+      "label": "4234",
+      "action": "Đã uống",
+      "slot": 2
+    },
+    {
+      "id": 1780037534873,
+      "time": "2026-05-29T06:52:14.873Z",
+      "label": "4234",
+      "action": "Đã thiết lập cữ",
+      "slot": 2
+    },
+    {
+      "id": 1780037504679,
+      "time": "2026-05-29T06:51:44.679Z",
+      "label": "Cữ thuốc cài từ Box (8g:3g)",
+      "action": "Thiết lập cữ (Từ Box vật lý)",
+      "slot": 1
+    },
+    {
+      "id": 1780037204810,
+      "time": "2026-05-29T06:46:44.810Z",
+      "label": "Tất cả cữ",
+      "action": "Xóa sạch lịch",
+      "slot": 1
+    },
+    {
+      "id": 1780037198357,
+      "time": "2026-05-29T06:46:38.357Z",
+      "label": "Cữ thuốc cài từ Box (9g:3g)",
+      "action": "Thiết lập cữ (Từ Box vật lý)",
+      "slot": 1
+    },
+    {
+      "id": 1780037196707,
+      "time": "2026-05-29T06:46:36.707Z",
+      "label": "Cữ thuốc cài từ Box (9g:3g)",
+      "action": "Thiết lập cữ (Từ Box vật lý)",
+      "slot": 1
+    },
+    {
+      "id": 1780037172044,
+      "time": "2026-05-29T06:46:12.044Z",
+      "label": "Cữ thuốc cài từ Box (10g:3g)",
+      "action": "Thiết lập cữ (Từ Box vật lý)",
+      "slot": 1
+    },
+    {
+      "id": 1780037167972,
+      "time": "2026-05-29T06:46:07.972Z",
+      "label": "Cữ thuốc cài từ Box (10g:3g)",
+      "action": "Thiết lập cữ (Từ Box vật lý)",
+      "slot": 1
+    },
+    {
+      "id": 1780037154170,
+      "time": "2026-05-29T06:45:54.170Z",
+      "label": "Cữ thuốc cài từ Box (7g:0g)",
+      "action": "Thiết lập cữ (Từ Box vật lý)",
+      "slot": 1
+    },
+    {
+      "id": 1780037145903,
+      "time": "2026-05-29T06:45:45.903Z",
+      "label": "Cữ thuốc cài từ Box (8g:0g)",
+      "action": "Thiết lập cữ (Từ Box vật lý)",
+      "slot": 1
+    },
+    {
+      "id": 1780037143465,
+      "time": "2026-05-29T06:45:43.465Z",
+      "label": "Cữ thuốc cài từ Box (8g:0g)",
+      "action": "Thiết lập cữ (Từ Box vật lý)",
+      "slot": 1
+    },
+    {
+      "id": 1780037137205,
+      "time": "2026-05-29T06:45:37.205Z",
+      "label": "Cữ thuốc cài từ Box (8g:0g)",
+      "action": "Thiết lập cữ (Từ Box vật lý)",
+      "slot": 1
+    },
+    {
+      "id": 1780037127786,
+      "time": "2026-05-29T06:45:27.786Z",
+      "label": "qewe",
+      "action": "Đã uống",
+      "slot": 2
+    },
+    {
+      "id": 1780037122729,
+      "time": "2026-05-29T06:45:22.729Z",
+      "label": "Toàn bộ cữ thuốc",
+      "action": "Hoàn tác trạng thái uống",
+      "slot": 1
+    },
+    {
+      "id": 1780037121528,
+      "time": "2026-05-29T06:45:21.528Z",
+      "label": "Toàn bộ cữ thuốc",
+      "action": "Hoàn tác trạng thái uống",
+      "slot": 1
+    },
+    {
+      "id": 1780037086342,
+      "time": "2026-05-29T06:44:46.342Z",
+      "label": "qewe",
+      "action": "Đã thiết lập cữ",
+      "slot": 2
+    },
+    {
+      "id": 1780036852978,
+      "time": "2026-05-29T06:40:52.978Z",
+      "label": "Tất cả cữ",
+      "action": "Xóa sạch lịch",
+      "slot": 1
+    },
+    {
+      "id": 1780036842807,
+      "time": "2026-05-29T06:40:42.807Z",
+      "label": "dfsdf",
+      "action": "Đã uống",
+      "slot": 3
+    },
+    {
+      "id": 1780036762370,
+      "time": "2026-05-29T06:39:22.370Z",
+      "label": "dfsdf",
+      "action": "Đã thiết lập cữ",
+      "slot": 3
+    },
+    {
+      "id": 1780036302164,
+      "time": "2026-05-29T06:31:42.164Z",
+      "label": "34",
+      "action": "Đã thiết lập cữ",
+      "slot": 2
+    },
+    {
+      "id": 1780036278966,
+      "time": "2026-05-29T06:31:18.966Z",
+      "label": "1324",
+      "action": "Đã uống",
+      "slot": 1
+    },
+    {
+      "id": 1780036243308,
+      "time": "2026-05-29T06:30:43.308Z",
+      "label": "1324",
+      "action": "Đã thiết lập cữ",
+      "slot": 1
+    },
+    {
+      "id": 1780035699899,
+      "time": "2026-05-29T06:21:39.899Z",
+      "label": "Tất cả cữ",
+      "action": "Xóa sạch lịch",
+      "slot": 1
+    },
+    {
+      "id": 1780035668256,
+      "time": "2026-05-29T06:21:08.256Z",
+      "label": "adc",
+      "action": "Đã uống",
+      "slot": 1
+    },
+    {
+      "id": 1780035646089,
+      "time": "2026-05-29T06:20:46.089Z",
+      "label": "adc",
+      "action": "Đã thiết lập cữ",
+      "slot": 1
+    },
+    {
+      "id": 1780035630017,
+      "time": "2026-05-29T06:20:30.017Z",
+      "label": "adc",
+      "action": "Tháo dỡ cữ",
+      "slot": 1
+    },
+    {
+      "id": 1780035588456,
+      "time": "2026-05-29T06:19:48.456Z",
+      "label": "adc",
+      "action": "Đã thiết lập cữ",
+      "slot": 1
+    },
+    {
+      "id": 1780035267274,
+      "time": "2026-05-29T06:14:27.274Z",
+      "label": "Tất cả cữ",
+      "action": "Xóa sạch lịch",
+      "slot": 1
+    },
+    {
+      "id": 1780035254684,
+      "time": "2026-05-29T06:14:14.684Z",
+      "label": "Cữ thuốc cài từ Box (8g:0g)",
+      "action": "Thiết lập cữ (Từ Box vật lý)",
+      "slot": 1
+    },
+    {
+      "id": 1780035253075,
+      "time": "2026-05-29T06:14:13.075Z",
+      "label": "Cữ thuốc cài từ Box (8g:0g)",
+      "action": "Thiết lập cữ (Từ Box vật lý)",
+      "slot": 1
+    },
+    {
+      "id": 1780035129097,
+      "time": "2026-05-29T06:12:09.097Z",
+      "label": "Tất cả cữ",
+      "action": "Xóa sạch lịch",
+      "slot": 1
+    },
+    {
+      "id": 1780035086620,
+      "time": "2026-05-29T06:11:26.620Z",
+      "label": "fwqe",
+      "action": "Đã thiết lập cữ",
+      "slot": 2
+    },
+    {
+      "id": 1780035069122,
+      "time": "2026-05-29T06:11:09.122Z",
+      "label": "adc",
+      "action": "Đã thiết lập cữ",
+      "slot": 1
+    },
+    {
+      "id": 1780035054217,
+      "time": "2026-05-29T06:10:54.217Z",
+      "label": "Vitamin C & kẽm",
+      "action": "Tháo dỡ cữ",
+      "slot": 3
+    },
+    {
+      "id": 1780035053573,
+      "time": "2026-05-29T06:10:53.573Z",
+      "label": "Men Tiêu Hóa",
+      "action": "Tháo dỡ cữ",
+      "slot": 2
+    },
+    {
+      "id": 1780035052938,
+      "time": "2026-05-29T06:10:52.938Z",
+      "label": "Thuốc Huyết Áp (Amlodipine)",
+      "action": "Tháo dỡ cữ",
+      "slot": 1
+    },
+    {
+      "id": 1,
+      "time": "2026-05-29T03:06:23.592Z",
+      "label": "Thuốc Huyết Áp",
+      "action": "Đã uống",
+      "slot": 1
+    },
+    {
+      "id": 2,
+      "time": "2026-05-29T05:06:23.593Z",
+      "label": "Men Tiêu Hóa",
+      "action": "Đã uống",
+      "slot": 2
+    }
+  ],
+  "manualLedState": false,
+  "manualBuzzerState": false,
+  "simulationHour": null
+}

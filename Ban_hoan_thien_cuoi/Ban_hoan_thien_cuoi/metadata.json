@@ -1,0 +1,8 @@
+{
+  "name": "Remix: IoT MedBox",
+  "description": "Hệ thống giám sát và quản lý lịch nhắc uống thuốc thông minh kết nối thời gian thực",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
